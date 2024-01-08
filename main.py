@@ -25,7 +25,7 @@ style.theme_use("clam")
 # Création de la fenêtre principale
 window = tk.Tk()
 window.title("Téléchargeur de vidéos YouTube")
-window.geometry("800x300")  # Définir la taille de la fenêtre
+window.geometry("800x250")  # Définir la taille de la fenêtre
 
 # Création des widgets
 url_label = ttk.Label(window, text="URL de la vidéo:")

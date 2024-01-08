@@ -1,0 +1,3 @@
+([('main',
+   '/Volumes/CT1000P3 PSSD8 Media/Code/YT-dler/dist/main',
+   'EXECUTABLE')],)
